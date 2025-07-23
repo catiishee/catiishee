@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @catiishee
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Java
 
 
 <!---
